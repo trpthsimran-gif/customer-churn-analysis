@@ -1,4 +1,3 @@
-# customer-churn-analysis
 Customer Churn Prediction & Analytics
 
 Objective
